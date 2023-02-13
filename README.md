@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natan-TI
 - 👀 I’m interested in learn new programming languages, domain frontend and backend and develop the projects that I'm inserted in  
-- 🌱 I’m currently learning Java, Python and Angular    
+- 🌱 I’m currently learning Java, SpringFramework and React    
 - 💞️ I’m looking to collaborate on all the projects that I can help
 - 📫 How to reach me: https://www.linkedin.com/in/natan-santos-494965219/
 
